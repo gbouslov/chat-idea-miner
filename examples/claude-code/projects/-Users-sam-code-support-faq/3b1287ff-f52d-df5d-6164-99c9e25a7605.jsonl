@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "3b1287ff-f52d-df5d-6164-99c9e25a7605", "timestamp": "2026-05-15T09:09:00.000Z", "cwd": "/Users/sam/code/support-faq", "message": {"role": "user", "content": "turn this support thread into a FAQ entry for the client's help page"}}
+{"type": "assistant", "sessionId": "3b1287ff-f52d-df5d-6164-99c9e25a7605", "timestamp": "2026-05-15T09:05:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Here's a FAQ entry."}]}}

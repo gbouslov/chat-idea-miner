@@ -1,0 +1,3 @@
+{"timestamp": "2026-05-19T09:49:00.000Z", "type": "session_meta", "payload": {"id": "e647cb8f-74e6-9a5d-0dd2-7a65bd628881", "timestamp": "2026-05-19T09:43:00.000Z", "cwd": "/Users/sam/code/website"}}
+{"timestamp": "2026-05-19T09:35:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "user", "content": [{"type": "input_text", "text": "fix the failing test in checkout.spec.ts"}]}}
+{"timestamp": "2026-05-19T09:25:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "assistant", "content": [{"type": "output_text", "text": "The mock returned undefined; fixed."}]}}

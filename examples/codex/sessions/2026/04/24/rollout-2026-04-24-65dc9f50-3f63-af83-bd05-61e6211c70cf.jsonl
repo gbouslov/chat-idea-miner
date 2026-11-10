@@ -1,0 +1,3 @@
+{"timestamp": "2026-04-24T09:25:00.000Z", "type": "session_meta", "payload": {"id": "65dc9f50-3f63-af83-bd05-61e6211c70cf", "timestamp": "2026-04-24T09:31:00.000Z", "cwd": "/Users/sam/code/invoices"}}
+{"timestamp": "2026-04-24T09:05:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "user", "content": [{"type": "input_text", "text": "monthly chase of overdue invoices, same as last time, draft nudges"}]}}
+{"timestamp": "2026-04-24T09:10:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "assistant", "content": [{"type": "output_text", "text": "Drafts ready."}]}}

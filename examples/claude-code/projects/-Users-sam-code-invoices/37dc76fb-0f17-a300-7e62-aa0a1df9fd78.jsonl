@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "37dc76fb-0f17-a300-7e62-aa0a1df9fd78", "timestamp": "2026-02-24T09:49:00.000Z", "cwd": "/Users/sam/code/invoices", "message": {"role": "user", "content": "chase unpaid invoices again: list who is over 30 days, draft a polite nudge for each"}}
+{"type": "assistant", "sessionId": "37dc76fb-0f17-a300-7e62-aa0a1df9fd78", "timestamp": "2026-02-24T09:18:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Here are 4 drafts."}]}}

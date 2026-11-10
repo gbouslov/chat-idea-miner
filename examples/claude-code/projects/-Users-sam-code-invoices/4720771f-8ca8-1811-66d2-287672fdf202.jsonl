@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "4720771f-8ca8-1811-66d2-287672fdf202", "timestamp": "2026-06-26T09:08:00.000Z", "cwd": "/Users/sam/code/invoices", "message": {"role": "user", "content": "do the overdue invoice nudges again please"}}
+{"type": "assistant", "sessionId": "4720771f-8ca8-1811-66d2-287672fdf202", "timestamp": "2026-06-26T09:27:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Done, 3 drafts."}]}}

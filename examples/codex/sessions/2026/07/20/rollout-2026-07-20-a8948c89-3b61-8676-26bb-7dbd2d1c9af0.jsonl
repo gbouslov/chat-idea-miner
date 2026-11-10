@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-20T09:14:00.000Z", "type": "session_meta", "payload": {"id": "a8948c89-3b61-8676-26bb-7dbd2d1c9af0", "timestamp": "2026-07-20T09:00:00.000Z", "cwd": "/Users/sam/code/support-faq"}}
+{"timestamp": "2026-07-20T09:31:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "user", "content": [{"type": "input_text", "text": "same as before: support thread to FAQ entry"}]}}
+{"timestamp": "2026-07-20T09:37:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "assistant", "content": [{"type": "output_text", "text": "Done."}]}}

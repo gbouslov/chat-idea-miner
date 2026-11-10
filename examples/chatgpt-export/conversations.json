@@ -1,0 +1,300 @@
+[
+ {
+  "title": "Pricing a quote tool",
+  "create_time": 1780358400.0,
+  "mapping": {
+   "1fb17c23-90c1-92cf-d3ac-94af0f21ddb6": {
+    "id": "1fb17c23-90c1-92cf-d3ac-94af0f21ddb6",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1780391640.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "a plumber and an electrician have been using a quote tool I hacked. Priya paid me $200 for setup. what would I charge if I turned it into a monthly thing for trades?"
+      ]
+     }
+    }
+   },
+   "f29d0da9-953f-48f1-a09f-76b5a170b338": {
+    "id": "f29d0da9-953f-48f1-a09f-76b5a170b338",
+    "parent": "1fb17c23-90c1-92cf-d3ac-94af0f21ddb6",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1780390980.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Common ranges for trade software are $29-99/month per user."
+      ]
+     }
+    }
+   },
+   "0cb1e29c-658c-da14-95e6-0af593bd04cf": {
+    "id": "0cb1e29c-658c-da14-95e6-0af593bd04cf",
+    "parent": "f29d0da9-953f-48f1-a09f-76b5a170b338",
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1780395240.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "how do people find tools like this, do tradespeople even search for software?"
+      ]
+     }
+    }
+   },
+   "2217bead-dbc4-96cb-8e81-973e0becd7b0": {
+    "id": "2217bead-dbc4-96cb-8e81-973e0becd7b0",
+    "parent": "0cb1e29c-658c-da14-95e6-0af593bd04cf",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1780395480.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Mostly word of mouth, Facebook groups and suppliers."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "Month end",
+  "create_time": 1789430400.0,
+  "mapping": {
+   "c6f87718-6d76-b07e-881e-d162ae2eb154": {
+    "id": "c6f87718-6d76-b07e-881e-d162ae2eb154",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1789464000.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "month end again. ran my payout splitter, 20 minutes instead of 4 hours. two people in the shopify sellers group asked me for it after I mentioned it"
+      ]
+     }
+    }
+   },
+   "7403e430-ec66-a787-95e7-61d17731af10": {
+    "id": "7403e430-ec66-a787-95e7-61d17731af10",
+    "parent": "c6f87718-6d76-b07e-881e-d162ae2eb154",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1789464180.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "That's two more unprompted asks."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "Mood journal",
+  "create_time": 1774137600.0,
+  "mapping": {
+   "7d2caf82-eeea-cbe2-26e8-75555790f82e": {
+    "id": "7d2caf82-eeea-cbe2-26e8-75555790f82e",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1774171560.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "still thinking about the mood journal app. what would the onboarding look like"
+      ]
+     }
+    }
+   },
+   "13deef86-ab10-31d0-f646-e1f40a097c97": {
+    "id": "13deef86-ab10-31d0-f646-e1f40a097c97",
+    "parent": "7d2caf82-eeea-cbe2-26e8-75555790f82e",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1774172880.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Start with a 3-question check-in."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "Pricing",
+  "create_time": 1781740800.0,
+  "mapping": {
+   "93f448b3-a5aa-3c81-4f42-6dcbb394fb36": {
+    "id": "93f448b3-a5aa-3c81-4f42-6dcbb394fb36",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1781775780.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "stopped charging by the hour for small automations and started charging per job. same work, clients say yes faster and I make more. why does that work"
+      ]
+     }
+    }
+   },
+   "b774eb52-48db-40af-7215-8370d269a9a5": {
+    "id": "b774eb52-48db-40af-7215-8370d269a9a5",
+    "parent": "93f448b3-a5aa-3c81-4f42-6dcbb394fb36",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1781774640.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Clients buy the outcome; hourly makes them watch the clock."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "FAQ",
+  "create_time": 1790553600.0,
+  "mapping": {
+   "5e8766ed-88da-f401-6b40-13ef254b0c4e": {
+    "id": "5e8766ed-88da-f401-6b40-13ef254b0c4e",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1790588340.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "another support thread to FAQ"
+      ]
+     }
+    }
+   },
+   "20203626-f3fe-39c0-5190-88f590fbbd11": {
+    "id": "20203626-f3fe-39c0-5190-88f590fbbd11",
+    "parent": "5e8766ed-88da-f401-6b40-13ef254b0c4e",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1790588640.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Here you go."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "Dinner",
+  "create_time": 1783123200.0,
+  "mapping": {
+   "0fef7928-6683-6886-a260-cd0b7b45145c": {
+    "id": "0fef7928-6683-6886-a260-cd0b7b45145c",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1783156320.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "what can I make with chickpeas, spinach and feta"
+      ]
+     }
+    }
+   },
+   "70ccec31-3571-810a-fc13-2d0d113db17d": {
+    "id": "70ccec31-3571-810a-fc13-2d0d113db17d",
+    "parent": "0fef7928-6683-6886-a260-cd0b7b45145c",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1783156200.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "A quick chickpea and spinach skillet."
+      ]
+     }
+    }
+   }
+  }
+ },
+ {
+  "title": "Trip",
+  "create_time": 1786665600.0,
+  "mapping": {
+   "26b94c7f-9118-bb16-000f-49c81a358ca0": {
+    "id": "26b94c7f-9118-bb16-000f-49c81a358ca0",
+    "parent": null,
+    "message": {
+     "author": {
+      "role": "user"
+     },
+     "create_time": 1786700040.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "3 days in lisbon, what should I not miss"
+      ]
+     }
+    }
+   },
+   "9d1de2a0-5d15-8a2f-f2ee-4e4519f9919c": {
+    "id": "9d1de2a0-5d15-8a2f-f2ee-4e4519f9919c",
+    "parent": "26b94c7f-9118-bb16-000f-49c81a358ca0",
+    "message": {
+     "author": {
+      "role": "assistant"
+     },
+     "create_time": 1786698060.0,
+     "content": {
+      "content_type": "text",
+      "parts": [
+       "Alfama, Belem, a day trip to Sintra."
+      ]
+     }
+    }
+   }
+  }
+ }
+]

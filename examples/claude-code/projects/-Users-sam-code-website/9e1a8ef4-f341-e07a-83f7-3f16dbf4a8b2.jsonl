@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "9e1a8ef4-f341-e07a-83f7-3f16dbf4a8b2", "timestamp": "2026-03-11T09:41:00.000Z", "cwd": "/Users/sam/code/website", "message": {"role": "user", "content": "why is my css grid collapsing on mobile"}}
+{"type": "assistant", "sessionId": "9e1a8ef4-f341-e07a-83f7-3f16dbf4a8b2", "timestamp": "2026-03-11T09:43:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "The min-width on the children is forcing overflow."}]}}

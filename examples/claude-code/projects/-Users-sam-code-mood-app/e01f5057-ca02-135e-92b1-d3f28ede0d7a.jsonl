@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "e01f5057-ca02-135e-92b1-d3f28ede0d7a", "timestamp": "2026-05-30T09:20:00.000Z", "cwd": "/Users/sam/code/mood-app", "message": {"role": "user", "content": "sketching screens for the mood journal again"}}
+{"type": "assistant", "sessionId": "e01f5057-ca02-135e-92b1-d3f28ede0d7a", "timestamp": "2026-05-30T09:21:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Here's a simple three-screen flow."}]}}

@@ -1,0 +1,3 @@
+{"timestamp": "2026-08-05T09:29:00.000Z", "type": "session_meta", "payload": {"id": "05c6af07-58d5-563d-ab2c-d31ee3151288", "timestamp": "2026-08-05T09:22:00.000Z", "cwd": "/Users/sam/code/notes"}}
+{"timestamp": "2026-08-05T09:10:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "user", "content": [{"type": "input_text", "text": "lesson: every client setup that stuck had one person on their side who owned it. the two that died had nobody"}]}}
+{"timestamp": "2026-08-05T09:39:00.000Z", "type": "response_item", "payload": {"type": "message", "role": "assistant", "content": [{"type": "output_text", "text": "An internal owner is a common predictor of adoption."}]}}

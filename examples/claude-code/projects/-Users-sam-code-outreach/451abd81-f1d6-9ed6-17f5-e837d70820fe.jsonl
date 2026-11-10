@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "451abd81-f1d6-9ed6-17f5-e837d70820fe", "timestamp": "2026-04-02T09:30:00.000Z", "cwd": "/Users/sam/code/outreach", "message": {"role": "user", "content": "cold emails to local shops: replies went from 2 to 9 out of 50 when I opened with one line about a review they got on google. writing this down"}}
+{"type": "assistant", "sessionId": "451abd81-f1d6-9ed6-17f5-e837d70820fe", "timestamp": "2026-04-02T09:44:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "That's a strong, specific result. Worth keeping."}]}}

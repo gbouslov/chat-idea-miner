@@ -1,0 +1,2 @@
+{"type": "user", "sessionId": "faecbd38-9be4-bcfc-49b6-4a0872e6cc3a", "timestamp": "2026-01-08T09:04:00.000Z", "cwd": "/Users/sam/code/mood-app", "message": {"role": "user", "content": "idea: a mood journal app that guesses your mood from how you type"}}
+{"type": "assistant", "sessionId": "faecbd38-9be4-bcfc-49b6-4a0872e6cc3a", "timestamp": "2026-01-08T09:07:00.000Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Interesting, but privacy matters a lot here."}]}}
